@@ -1,6 +1,7 @@
 {
     "name": "everton3x/autoload-files-plugin",
     "type": "composer-plugin",
+    "licence": "MIT",
     "require": {
         "composer-plugin-api": "^2.0",
         "symfony/finder": "^5.0 || ^6.0"
